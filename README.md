@@ -140,12 +140,4 @@
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
   </div>
-  
-  <p style="color: #666;">William Cachamwri - [@A3d0tr1sX](https://twitter.com/A3d0tr1sX) - williamcachamwri@gmail.com</p>
-  
-  <p style="margin-top: 20px;">
-    <a href="https://github.com/williamcachamwri/terminal-portfolio" style="color: #06D6A0; text-decoration: none;">
-      Project Link: https://github.com/williamcachamwri/terminal-portfolio
-    </a>
-  </p>
 </div>
